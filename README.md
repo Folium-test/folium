@@ -47,6 +47,15 @@ Rotas protegidas para garantir o acesso apenas de usuários autenticados
 ### Aplicação Web
 https://folium-test-q3dl.vercel.app/
 
+### Imagens
+![Catalogo] (<img width="1907" height="807" alt="catalogo" src="https://github.com/user-attachments/assets/e7e9ad0b-d879-4072-8921-28385ee10ae1" />)
+
+<img width="1906" height="752" alt="singup" src="https://github.com/user-attachments/assets/8717fa34-3daf-4149-a7cc-03d608c0d1e3" />
+
+
+
+
+
 ## Diagrama de arquitetura da aplicação
 
     ┌───────────────────────────┐
@@ -82,3 +91,4 @@ https://folium-test-q3dl.vercel.app/
     │ • Histórico e favoritos              │
     │ • Registros de avaliações            │
     └──────────────────────────────────────┘
+
